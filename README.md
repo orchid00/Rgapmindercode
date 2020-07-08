@@ -12,8 +12,6 @@ few extra exercises
 the src folder has the code scripts ordered numerically
 it should be all you need to reproduce results and
 recreate data and plots
-the results folder is empty but available for your own 
-results of experimenting
 
 ## Recommended usage
 * download this project structure 
